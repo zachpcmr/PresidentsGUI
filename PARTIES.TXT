@@ -1,0 +1,7 @@
+ 0 0No Party/Independent          
+ 0 1Federalist                    
+ 0 2Democratic-Republican         
+ 0 3Democratic                    
+ 0 4Whig                          
+ 0 5Republican                    
+ 0 6Other/Undefined               
